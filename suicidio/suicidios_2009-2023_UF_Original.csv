@@ -1,0 +1,48 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Região/Unidade da Federação e Ano do Óbito
+Categoria CID-10: X60   Auto-int int analg antipir anti-reum n-opiac, X61   Auto-int int a-conv sed hip a-park psic NCOP, X62   Auto-intox intenc narcot psicodislept NCOP, X63   Auto-int int outr subst farm sist nerv auton, X64   Auto-int intenc out drog med subst biolog NE, X65   Auto-intox voluntaria p/alcool, X66   Auto-int int solv org hidrocarb halog vapor, X67   Auto-intox intenc p/outr gases e vapores, X68   Auto-intox intenc a pesticidas, X69   Auto-int intenc outr prod quim subst noc NE, X70   Lesao autoprov intenc enforc estrang sufoc, X71   Lesao autoprov intenc p/afogamento submersao, X72   Lesao autoprov intenc disp arma fogo de mao, X73   Les autoprov int disp arm fog maior calibre, X74   Lesao autopr intenc disp outr arma fogo e NE, X75   Lesao autoprov intenc p/disp explosivos, X76   Lesao autoprov intenc fumaca fogo e chamas, X77   Lesao autopr int vapor agua gas  obj quent, X78   Lesao autoprov intenc obj cortante  penetr, X79   Lesao autoprov intenc p/objeto contundente, X80   Lesao autoprov intenc precip lugar elevado, X81   Lesao autoprov intenc precip perm obj movim, X82   Lesao autoprov intenc impacto veic a motor, X83   Lesao autoprov intenc p/outr meios espec, X84   Lesao autoprov intenc p/meios NE, Y87   Seq lesao autopr inten agress fato int indet
+Período:2009-2023
+"Região/Unidade da Federação";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"Total"
+"Região Norte";592;623;693;696;763;709;877;830;899;992;1056;1126;1215;1320;1440;13831
+".. Rondônia";84;82;78;73;87;82;112;104;114;125;140;139;145;147;154;1666
+".. Acre";31;40;41;43;44;49;39;56;64;59;72;71;70;81;117;877
+".. Amazonas";152;162;188;185;225;238;263;194;209;237;255;317;299;302;341;3567
+".. Roraima";32;34;34;38;33;15;52;58;50;37;48;36;68;55;63;653
+".. Pará";187;191;222;243;234;212;266;280;301;353;350;393;402;506;531;4671
+".. Amapá";26;29;37;21;46;33;51;36;45;60;60;52;64;81;71;712
+".. Tocantins";80;85;93;93;94;80;94;102;116;121;131;118;167;148;163;1685
+"Região Nordeste";2112;2144;2308;2357;2519;2411;2553;2745;3014;3012;3102;3255;3819;3847;4165;43363
+".. Maranhão";154;211;217;210;243;256;283;290;317;313;335;339;380;388;451;4387
+".. Piauí";209;203;235;236;230;245;273;325;319;333;327;313;379;366;374;4367
+".. Ceará";500;488;555;510;591;567;566;594;645;660;631;607;820;792;798;9324
+".. Rio Grande do Norte";146;138;177;172;155;166;155;178;180;197;199;236;258;239;283;2879
+".. Paraíba";166;158;164;187;197;158;223;192;251;235;255;259;277;327;363;3412
+".. Pernambuco";332;295;292;343;336;333;312;406;455;439;452;460;551;486;620;6112
+".. Alagoas";110;84;102;108;141;117;119;113;106;139;130;167;159;196;183;1974
+".. Sergipe";116;131;135;108;127;113;120;120;127;135;115;132;134;166;156;1935
+".. Bahia";379;436;431;483;499;456;502;527;614;561;658;742;861;887;937;8973
+"Região Sudeste";3599;3761;3952;4055;4011;4323;4371;4285;4682;4726;4946;5094;5635;6051;6019;69510
+".. Minas Gerais";1126;1108;1261;1287;1175;1363;1307;1301;1522;1537;1745;1665;1805;2062;2000;22264
+".. Espírito Santo";150;167;170;184;161;183;196;179;213;244;254;255;265;247;313;3181
+".. Rio de Janeiro";321;514;437;466;440;531;542;582;611;706;578;794;909;817;909;9157
+".. São Paulo";2002;1972;2084;2118;2235;2246;2326;2223;2336;2239;2369;2380;2656;2925;2797;34908
+"Região Sul";2300;2177;2182;2391;2393;2360;2517;2637;2879;2935;3194;3159;3502;3725;3803;42154
+".. Paraná";661;596;611;646;671;643;737;784;786;932;961;943;1110;1195;1154;12430
+".. Santa Catarina";514;536;517;553;574;589;635;671;744;744;804;789;867;952;975;10464
+".. Rio Grande do Sul";1125;1045;1054;1192;1148;1128;1145;1182;1349;1259;1429;1427;1525;1578;1674;19260
+"Região Centro-Oeste";856;825;825;956;980;976;967;1062;1140;1203;1311;1312;1430;1606;1669;17118
+".. Mato Grosso do Sul";215;194;212;212;226;208;233;225;261;268;265;245;308;326;338;3736
+".. Mato Grosso";191;163;159;188;183;160;151;180;201;229;244;265;266;309;336;3225
+".. Goiás";312;306;339;405;423;451;436;490;494;500;596;602;660;711;713;7438
+".. Distrito Federal";138;162;115;151;148;157;147;167;184;206;206;200;196;260;282;2719
+"Total";9459;9530;9960;10455;10666;10779;11285;11559;12614;12868;13609;13946;15601;16549;17096;185976
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2023. Data da atualização dos dados 12/2024.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 
